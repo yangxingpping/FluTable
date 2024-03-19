@@ -13,7 +13,7 @@ Window {
         color: "blue"
         border.width: 5
         border.color: "green"
-        NumKeyBoard{
+        FluTable{
             anchors.centerIn: parent
             width: parent.width - parent.border.width * 2
             height: parent.height - parent.border.width * 2

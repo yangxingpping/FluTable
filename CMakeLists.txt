@@ -16,7 +16,7 @@ qt_add_qml_module(appuntitled58
     URI untitled58
     VERSION 1.0
     QML_FILES Main.qml
-    QML_FILES NumKeyBoard.qml
+    QML_FILES FluTable.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
